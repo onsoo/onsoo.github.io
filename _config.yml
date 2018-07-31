@@ -1,0 +1,60 @@
+# Site Info
+title: 'Onsoo's Growth'
+tagline: 'Onsoo's Growth'
+description: '글쓰기, 외국어 등등'
+baseurl: ""
+url: https://onsoo.github.io
+logo: '/public/logo.png'
+
+# Site configurations
+gems:
+  - jekyll-paginate
+markdown: kramdown
+kramdown:
+  input: GFM
+excerpt_separator: "<!-- more -->"
+sass:
+  style: compressed
+  sass_dir: _scss
+paginate: 5
+paginate_path: '/blog/page:num'
+permalink: pretty
+
+version: 1.0.0
+
+# About/contact
+author:
+  name: onsoo
+  description: 온수
+  contact:
+    github:    https://github.com/onsoo
+    email:    mailto:orea.j2@gmail.com
+
+# Navigation (2nd level links supported)
+nav:
+  Home:
+    - '/blog/'
+  Categories:
+    - '/'
+    - { writing: '/blog/categories/#writing' }
+  Tags:
+    - '/blog/tags/'
+  About:
+    - '/about/'
+  Search:
+    - '/search/'
+
+# Where are tags and categories displayed
+tag_page: '/blog/tags/'
+category_page: '/blog/categories/'
+
+
+# Puglins
+mathjax: true # whether support mathjax
+google_analytics_token: '' # leave blank if you don't want google analytics
+disqus_short_name: 'onsoo' # leave blank if you don't want disqus
+
+
+# Use the following plug-ins
+gems:
+  - jekyll-paginate
