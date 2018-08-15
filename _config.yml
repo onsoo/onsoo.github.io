@@ -36,7 +36,9 @@ nav:
     - '/blog/'
   Categories:
     - '/'
+    - { help: '/blog/categories/#help' }
     - { writing: '/blog/categories/#writing' }
+
   Tags:
     - '/blog/tags/'
   About:
