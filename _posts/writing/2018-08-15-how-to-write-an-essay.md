@@ -16,7 +16,7 @@ comments: true
 
 [^1]: 2007년 『판타스틱 개미지옥』으로 문학수첩작가상을, 『쿨하게 한 걸음』으로 창비장편소설상을 거머쥐며 화려하게 작품 활동을 시작했다. 그 외 주요 작품으로는 『모두가 헤어지는 하루』, 『끝의 시작』, 『당분간 인간』 등이 있다. [참고](https://www.kyobobook.co.kr/author/info/AuthorInfo.laf?mallGb=KAU&authorid=1001088501)
 
-![일기와 에세이 차이](/asset/images/how-to-write-an-essay.png)
+![일기와 에세이 차이](/assets/images/how-to-write-an-essay.png)
 
 [출처](https://brunch.co.kr/@brunch/138)
 
