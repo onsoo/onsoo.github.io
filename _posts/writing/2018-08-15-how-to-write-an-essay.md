@@ -17,9 +17,7 @@ comments: true
 [^1]: 2007년 『판타스틱 개미지옥』으로 문학수첩작가상을, 『쿨하게 한 걸음』으로 창비장편소설상을 거머쥐며 화려하게 작품 활동을 시작했다. 그 외 주요 작품으로는 『모두가 헤어지는 하루』, 『끝의 시작』, 『당분간 인간』 등이 있다. [참고](https://www.kyobobook.co.kr/author/info/AuthorInfo.laf?mallGb=KAU&authorid=1001088501)
 
 ![일기와 에세이 차이](/assets/images/how-to-write-an-essay.png)
-*일기와 에세이 차이*
-
-[출처](https://brunch.co.kr/@brunch/138)
+*일기와 에세이 차이 [출처](https://brunch.co.kr/@brunch/138)*
 
 에세이는 독자를 염두해두고 내 일상을 이야기로 표현해내는 글인 것 같다. 에세이를 쓸까 고민하고 있다면, 내가 다른 사람의 글을 읽는다면 무엇을 읽고 싶은가 고민해보면 어떻게 쓸지 조금 감은 잡힌다고 한다. 
 
