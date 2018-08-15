@@ -10,12 +10,13 @@ $blue:     #1B6EC4;
 $magenta:  #aa759f;
 $brown:    #8f5536;
 $default:  #505050;
+$onsoo-color: #a4bec6;
 
 $white:      #fff;
 $lightgrey:  #eee;
 $black:      #000;
 
-$theme-color: $magenta;
+$theme-color: $onsoo-color;
 $theme-color-dark: darken($theme-color, 10%);
 
 $post-date-color: #9a9a9a;
