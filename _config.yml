@@ -37,7 +37,9 @@ nav:
   Categories:
     - '/'
     - { help: '/blog/categories/#help' }
+    - { 서비스기획: '/blog/categories/#서비스기획' }
     - { writing: '/blog/categories/#writing' }
+    - { TIL(Today I Learned): '/blog/categories/#til' }
 
   Tags:
     - '/blog/tags/'
