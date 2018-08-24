@@ -22,6 +22,8 @@
     h3 {
       font-size: 1.2rem;
     }
+
+    blockquote { font-size: .9rem; }
   }
 
   .post-title {
@@ -77,4 +79,9 @@
 img + em {
   display: block;
   text-align: center;
+}
+
+.footnotes {
+  font-size: 80%;
+  line-height: 150%;
 }
