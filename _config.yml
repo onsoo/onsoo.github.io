@@ -1,7 +1,7 @@
 # Site Info
 title: "Onsoo's Growth"
 tagline: "Onsoo's Growth"
-description: '글쓰기, 외국어 등등'
+description: '서비스기획, 데이터분석, 등등'
 baseurl: ""
 url: https://onsoo.github.io
 logo: '/public/logo.png'
@@ -38,8 +38,9 @@ nav:
     - '/'
     - { help: '/blog/categories/#help' }
     - { 서비스기획: '/blog/categories/#서비스기획' }
-    - { writing: '/blog/categories/#writing' }
+    - { 데이터분석: '/blog/categories/#데이터분석' }
     - { TIL(Today I Learned): '/blog/categories/#til' }
+    - { writing: '/blog/categories/#writing' }
 
   Tags:
     - '/blog/tags/'
