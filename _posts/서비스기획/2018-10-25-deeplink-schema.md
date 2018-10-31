@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 딥링크와 스키마
+title: 서비스기획을 위한 IT지식 - 딥링크와 스키마
 category: 서비스기획
 tags: [서비스기획, 앱기획, IT]
 comments: true
