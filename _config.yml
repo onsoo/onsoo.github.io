@@ -41,6 +41,7 @@ nav:
     - { 데이터분석: '/blog/categories/#데이터분석' }
     - { TIL(Today I Learned): '/blog/categories/#til' }
     - { writing: '/blog/categories/#writing' }
+    - { 월간음식 : '/blog/categories/#월간음식'}
 
   Tags:
     - '/blog/tags/'
